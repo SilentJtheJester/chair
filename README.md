@@ -1,0 +1,2 @@
+# chair
+Have a seat
